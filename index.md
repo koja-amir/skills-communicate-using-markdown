@@ -4,3 +4,9 @@
 #### This is a fourth heading tag in the list.
 
 ![This is my favorite pic](https://github.com/user-attachments/assets/51e2ba6e-d46d-4007-b734-038ad0692a80)
+
+
+``` JAVASCRIPT
+const greetings = "Say hello to the world.";
+console.log(greetings);
+```
