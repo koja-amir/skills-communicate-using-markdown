@@ -10,3 +10,10 @@
 const greetings = "Say hello to the world.";
 console.log(greetings);
 ```
+
+###### Below is my task list, it will guide me on which task are completed and which are not completed.
+
+- [x] Finish my assignment
+- [ ] Ensure I do my laundry
+- [ ] Go to supermarket
+- [x] Pick up my siblings from school.
